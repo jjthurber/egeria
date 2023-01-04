@@ -7,7 +7,7 @@ import org.odpi.openmetadata.frameworks.connectors.ffdc.InvalidParameterExceptio
 import org.odpi.openmetadata.frameworks.connectors.ffdc.PropertyServerException;
 import org.odpi.openmetadata.frameworks.connectors.ffdc.UserNotAuthorizedException;
 
-
+int test = 1;
 /**
  * AssetAnalysisAPI is the interface to validate that a connector is suitable to run in the Asset Analysis OMES.
  * It validates that it implements the correct interfaces and returns the connector type for the connector.
